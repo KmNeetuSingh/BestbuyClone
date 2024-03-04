@@ -1,70 +1,70 @@
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Inspired from Bestbuy.com
+## Available Scripts
 
-This is Collabrated project and accociated with Masai Shcool. 
-Our main objective is to complete all main functionality of this e-commerce web application, such as User Authentication, Add to Cart/ Buy and filter the products.
+In the project directory, you can run:
 
-- [Click here](https://bestbuy-com-clone.vercel.app/) to see preview of our project.
+### `npm start`
 
-BestBuy.com is an e-commerce web application that widely provides Tech-Gadgets and Tech-accessories. This repository consist replica of BestBuy.com project by using MERN Stack Technologies.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Credits
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- Images : [bestbuy.com](https://www.bestbuy.com/)
-- Content : [bestbuy.com](https://www.bestbuy.com/)
-- Icons : [Font Awesome](https://fontawesome.com/)
-- References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/)
+### `npm test`
 
-## Tech Stack
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- React.Js
-- Redux
-- ExpressJs
-- MongoDB
-- Material UI
-- Styled-Components CSS
-- NodeJs
-- HTML5
-- CSS3
-- JavaScript
+### `npm run build`
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-<h2>Features :</h2><br>
-  <li>Homepage - The landing Page</li>
-  <li>Login/Signup Page with User Authentication</li>
-  <li>Product Page to browse all products based on categories with sorting and filter functionalities</li>
-  <li>Checkout Page</li>
-  <li>Payment Page</li>
-  <hr><br>
-  <h4>Homepage</h4>
- <img src="/bestbuyss/Screenshot (2131).png" alt="Bestbuy ScreenShot currently unavailable"/>
-  <hr>
-  <h4>Top-Deals</h4>
-  <img src="/bestbuyss/Screenshot (2132).png" alt="Bestbuy ScreenShot currently unavailable"/>
-  <img src="/bestbuyss/Screenshot (2133).png" alt="Bestbuy ScreenShot currently unavailable"/>
-  <hr>
-  <h4>Product Details</h4>
-  <img src="/bestbuyss/Screenshot (2134).png" alt="Bestbuy ScreenShot currently unavailable"/>
-  <hr>
-  <h4>Cart Page</h4>
-  <img src="/bestbuyss/Screenshot (2135).png" alt="Bestbuy ScreenShot currently unavailable"/>
-  <hr>
-  <h4>Payment and Checkout</h4>
-  <img src="/bestbuyss/Screenshot (2136).png" alt="Bestbuy ScreenShot currently unavailable"/>
-  <img src="/bestbuyss/Screenshot (2137).png" alt="Bestbuy ScreenShot currently unavailable"/>
-  <hr>
-  <h4>Service Page</h4>
-  <img src="/bestbuyss/Screenshot (2138).png" alt="Bestbuy ScreenShot currently unavailable"/>
-<h2>Team Members :</h2>
-  <li><a href="https://github.com/gautam6023">Gautam Gohil</a></li>
-  <li><a href="https://github.com/ShubhamShewale98">Shubham Shewale</a></li>
-  <li><a href="https://github.com/amananshul">Aman Dubey</a></li>
-  <li><a href="https://github.com/AtulKumar69">Atul Kumar Panigrahi</a></li>
-  <li><a href="https://github.com/Himanshu0316">Himanshu</a></li>
-  <li><a href="https://github.com/Debasree-3031999">Debasree Ghosh</a></li>
- <hr>
-  
-<h2>Author</h2>
-  <li><a href="https://github.com/Debasree-3031999">@Debasree Ghosh</a></li>
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
